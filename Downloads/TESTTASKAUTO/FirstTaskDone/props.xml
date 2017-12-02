@@ -1,0 +1,6 @@
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <comment>This is a comment</comment>
+    <entry key="first">Документ № </entry>
+    <entry key="second">_Разживин А. В.</entry>
+    </properties>
