@@ -3,11 +3,6 @@ import java.sql.*;
 import java.util.Calendar;
 import java.util.Properties;
 
-/**
- * Simple Java program to connect to MySQL database running on localhost and
- * running SELECT and INSERT query to retrieve and add data.
- * @author Javin Paul
- */
 public class index {
 
     private static final String url = "jdbc:mysql://localhost:3306/test";
